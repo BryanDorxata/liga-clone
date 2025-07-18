@@ -1,0 +1,18 @@
+# Google AI Studio Configuration (for Gemini)
+GOOGLE_GENAI_USE_VERTEXAI=FALSE
+GOOGLE_API_KEY=your_google_api_key_here
+
+# Alternative: Vertex AI Configuration (for Gemini)
+# GOOGLE_GENAI_USE_VERTEXAI=TRUE
+# GOOGLE_CLOUD_PROJECT=your_project_id
+# GOOGLE_CLOUD_LOCATION=us-central1
+
+# Google Drive API Configuration
+# Download credentials.json from Google Cloud Console and place in project root
+# The system will automatically generate token.pickle after first authentication
+
+# Optional: OpenAI Configuration (for fallback)
+# OPENAI_API_KEY=your_openai_api_key_here
+
+# Liga ng mga Barangay Google Drive Folder ID (already configured)
+LIGA_FOLDER_ID=1JmMuoMr6CswsphQVD10DG5UsTpBHYp6m
