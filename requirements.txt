@@ -1,3 +1,7 @@
+Flask
+flask-cors
+gunicorn
+
 google-adk
 sentence-transformers
 faiss-cpu
