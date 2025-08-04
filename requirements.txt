@@ -1,6 +1,6 @@
 Flask
 flask-cors
-gunicorn main:app
+gunicorn
 
 google-adk
 sentence-transformers
