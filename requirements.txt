@@ -1,6 +1,7 @@
 # FastAPI + Uvicorn
 fastapi
 uvicorn
+gunicorn
 
 # Core deps
 google-adk
