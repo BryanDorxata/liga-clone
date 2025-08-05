@@ -1,7 +1,8 @@
-Flask
-flask-cors
-gunicorn
+# FastAPI + Uvicorn
+fastapi
+uvicorn
 
+# Core deps
 google-adk
 sentence-transformers
 faiss-cpu
@@ -13,9 +14,10 @@ chromadb
 tiktoken
 scikit-learn
 
+# Google AI SDKs
 google-generativeai>=0.3.0
 google-cloud-aiplatform>=1.38.0
-google-adk>=0.1.0
-python-dotenv>=1.0.0
 vertexai>=1.38.0
+
+# Typing
 typing-extensions>=4.5.0
